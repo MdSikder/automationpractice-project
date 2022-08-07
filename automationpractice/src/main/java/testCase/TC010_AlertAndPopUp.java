@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import base.DriverSetup;
 
-public class TC0010_AlertAndPopUp extends DriverSetup {
+public class TC010_AlertAndPopUp extends DriverSetup {
 	public static String baseUrl = "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_alert";
 
 	@Test
